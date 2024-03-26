@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "737722506477",
+    "project_id": "curtianapp",
+    "storage_bucket": "curtianapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737722506477:android:b9e151bc92fdd1ecc100e4",
+        "android_client_info": {
+          "package_name": "com.example.curtian_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbDUbEgpxTrpEAZpUgKUlM_Rhzx7VSc5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
